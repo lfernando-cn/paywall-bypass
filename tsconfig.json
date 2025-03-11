@@ -2,8 +2,8 @@
   "compilerOptions": {
     "target": "ES6",
     "module": "commonjs",
-    "outDir": "./dist",  // Direciona os arquivos compilados para a pasta 'dist'
-    "rootDir": "./src",  // Direciona a pasta de origem dos arquivos TypeScript
+    "outDir": "./dist",  
+    "rootDir": "./src",  
     "esModuleInterop": true,
     "strict": true,
     "skipLibCheck": true,

@@ -1,8 +1,7 @@
 # Node.js
 node_modules/
 
-# dotenv
-.env
+
 
 # Logs
 logs/
